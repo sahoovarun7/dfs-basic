@@ -1,4 +1,4 @@
-# dfs-basic
+# Depth First Search Simplified
 
 Nothing fancy! 
 Plain old implementation of dfs of a graph using adjacency list representation. 
